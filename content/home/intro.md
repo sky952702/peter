@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: aaaaaaaa ✏️ Template
+title: 白鼻子
 subtitle: 'For [兔子家族](https://wowchemy.com/)'
 
 design:
