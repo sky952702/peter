@@ -9,10 +9,11 @@ headless: true
 weight: 10
 
 title: aaaaaaaa ✏️ Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [兔子家族](https://wowchemy.com/)'
 
 design:
   background:
     color: '#090a0b'
     text_color_light: true
 ---
+
